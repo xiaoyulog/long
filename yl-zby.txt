@@ -701,7 +701,7 @@ TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/f500497b96b1458a8f9f5da38c6e02
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 
-🇹🇼油管代理,#genre#
+⭐油管代理,#genre#
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
